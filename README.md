@@ -1,6 +1,6 @@
 # Hi 👋, I'm Altamash Saifi
 
-### Aspiring Full Stack Developer
+### Aspiring Software Developer
 
 <div align="center">
 
