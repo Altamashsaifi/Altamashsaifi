@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://github.com/altamashsaifi.png" alt="Your Name" width="150" height="150" style="border-radius: 100%; border: 4px solid #007AFF;">
+
 
 </div>
 
