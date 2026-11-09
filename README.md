@@ -1,4 +1,4 @@
-# Hi 👋, I'm Altamash Saifi
+# Hi , I'm Altamash Saifi
 
 ### Aspiring Software Developer
 
@@ -8,9 +8,9 @@
 
 </div>
 
-- 🌱 I'm currently learning **Web development, App development**
+-  I'm currently learning **Web development, App development**
 
-- 📫 How to reach me **altutamish786@gmail.com**
+-  How to reach me **altutamish786@gmail.com**
 
 
 I'm currently working on amazing projects!
